@@ -1,0 +1,21 @@
+h1 {color:#0088ff;}
+h1 {font-family: Verdana;}
+
+h3 {colo#0088ffr: blue;}
+h3 {text-decoration: underline;}
+h3 {font-family: Helvetica;}
+
+h5 {color:#000000;}
+h5 {font-family: Lucida Calligraphy;}
+
+.moveimage {
+    position: absolute;
+    top: 120px;
+    right: 0px;
+}
+
+.Papierformat {
+    height: 257mm;
+    width: 170mm;
+    margin: 20mm;
+}
